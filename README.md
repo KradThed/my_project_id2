@@ -1,1 +1,1 @@
-Simple task manager with flak
+Task manager with flask
